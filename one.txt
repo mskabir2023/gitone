@@ -1,5 +1,10 @@
 Abcd
 sdsads
+<<<<<<< HEAD
 mskabir
 
 rubel
+=======
+
+i am rubel
+>>>>>>> mskabir
